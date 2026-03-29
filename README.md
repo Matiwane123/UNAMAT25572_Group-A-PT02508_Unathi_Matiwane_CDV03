@@ -16,4 +16,4 @@ The aim of this project is to create a clear, concise, and compelling resume tha
 
 ### Link to Resume
 
-[Your Google Docs Resume](https://docs.google.com/document/d/1Wbw0w3gn3Vh44RGReqwmeUNVM_62e-1h1dFCyw4AK3k/edit?tab=t.0)
+[Your Google Docs Resume](<file:///C:/Users/matiw/Downloads/Unathi%20Matiwane%20_%20LinkedIn%20(2).pdf>)
